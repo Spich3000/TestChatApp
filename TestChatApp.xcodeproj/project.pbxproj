@@ -72,12 +72,12 @@
 				A25AA79E28381EAC00BFA397 /* TestChatAppApp.swift */,
 				A25AA7A028381EAC00BFA397 /* ContentView.swift */,
 				A25AA7B6283829AF00BFA397 /* Extention.swift */,
+				A25AA7C1283837E300BFA397 /* MessagesManager.swift */,
 				A25AA7AF2838251400BFA397 /* Models */,
 				A25AA7AC28381F4800BFA397 /* Components */,
 				A25AA7A228381EAE00BFA397 /* Assets.xcassets */,
 				A25AA7BA283834A900BFA397 /* GoogleService-Info.plist */,
 				A25AA7A428381EAE00BFA397 /* Preview Content */,
-				A25AA7C1283837E300BFA397 /* MessagesManager.swift */,
 			);
 			path = TestChatApp;
 			sourceTree = "<group>";
